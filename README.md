@@ -1,10 +1,7 @@
-# File-to-Link
-File To Link telegram Bot  auto post your channel
-
 🥰 File-to-Link-Tg-Bot [![License: MIT][License-Badge]](LICENSE)
-
+- `File To Link telegram Bot  auto post your channel`
+- 
 - Don't forget to star ⭐ the repo 🥰
-
 
 <h1 align="center">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="50%">
@@ -16,9 +13,10 @@ File To Link telegram Bot  auto post your channel
 
 ## 🗂 Variables `.env`
 - Get `BOT_TOKEN`: from [Botfather](https://t.me/botfather).
-- add `BASE_URL`: Add your hosting app link..
+- Add `BASE_URL`: Add your hosting app link..
 - Get `CHANNEL_ID`: id by forwarding a message from channel to [Rose mam](https://t.me/MissRose_bot).
 - Channel **ID** must start with `-100`.
+- Add `PORT`: 3000 
 - Bot must be **admin** in channel with **edit rights**.
 
 <br>
